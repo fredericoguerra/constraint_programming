@@ -24,3 +24,9 @@ $$ \max \left( \sum_{i \in I} {p_{i} {x_{i}}} \right)$$
 $$ \sum_{i = 1}^{n} {w_{i} * {x_{i}}} \le c \qquad i \in n $$ <br/>
 
 $$ x_{i} \in \\{ 0,1 \\} $$ <br/>
+
+## Diet Problem
+
+## House Building Problem
+
+## Sudoku Solver
